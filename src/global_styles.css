@@ -1,0 +1,81 @@
+/* Add application styles & imports to this file! */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Roboto:wght@300;400;500&display=swap');
+
+:root {
+  --primary-color: #ff6b6b;
+  --secondary-color: #4ecdc4;
+  --background-color: #f7f7f7;
+  --text-color: #333;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.romantic-title {
+  font-family: 'Dancing Script', cursive;
+  color: var(--primary-color);
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  text-align: center;
+  padding: 1rem;
+  line-height: 1.2;
+}
+
+.reason-card {
+  background: white;
+  border-radius: 15px;
+  padding: 1.25rem;
+  margin: 0.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+  height: 100%;
+}
+
+.reason-card:hover {
+  transform: translateY(-5px);
+}
+
+.video-container {
+  position: relative;
+  width: 100%;
+  max-width: 800px;
+  margin: 1rem auto;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.heart-animation {
+  position: fixed;
+  pointer-events: none;
+  z-index: 1000;
+  font-size: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+  
+  .reason-card {
+    padding: 1rem;
+    margin: 0.5rem 0;
+  }
+  
+  .video-container {
+    margin: 0.5rem auto;
+    border-radius: 10px;
+  }
+}
