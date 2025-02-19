@@ -15,7 +15,7 @@ interface Reason {
   imports: [CommonModule, FormsModule],
   template: `
     <div class="app-container">
-      <h1 class="romantic-title">Carta a Jessica</h1>
+      <h1 class="romantic-title">Carta a Jessica Amairani</h1>
       
       <!-- Video Section
         <div class="video-container">
@@ -52,18 +52,18 @@ interface Reason {
         <div class="reason-card" >
           <p class="reason-text">
           Hoy te escribo estas palabras con el corazón abierto, no para pedirte que vuelvas, sino para agradecerte por todo lo que compartimos y por  lo que fuiste en mi vida.
-Es difícil entender y comprender que no podemos obligar ni forzar a que una persona nos elija, discúlpame si llegaste a sentirte agobiada este tiempo, solo que soy un hombre que le gusta luchar y morirse en la linea por la persona que le importa, haber echo todo lo que ha estado en mis manos para que me eligieras
+Es difícil entender y comprender que no podemos obligar ni forzar a que una persona nos elija, discúlpame si llegaste a sentirte agobiada este tiempo, solo que soy un hombre que le gusta luchar hasta el final por la persona que le importa, haber echo todo lo que ha estado en mis manos para que me eligieras
 sin embargo entendí que esa decisión no me corresponde a mí, y que así como un día tu me elegiste y decidiste estar conmigo sin condiciones,
-así tiene que pasar, talvez mi psicólogo y amigos tenían razón, si tu no me has buscado es porque no soy tu elección y no esta mal, 
-quise aferrarme a la idea de un amor tan bonito y único que tuvimos que me fue difícil aceptar que todo acaba incluso ese amor que nos tuvimos, me dolió mucho la forma en que te fuiste, los planes, viajes, metas pendientes, sentí que pasaste de página mientras yo aún te esperaba, te extrañaba mucho y sí,  incluso me llegué a sentir remplazado, y sí, trate y sigo haciendo cosas por mi, solo que mi esperanza no me dejaba enfocarme 100% en mi porque esa esperanza me decía que aún me querías, que podía luchar por ti y
+así tiene que pasar, talvez mi psicólogo y amigos tienen razón, si tu no me has buscado es porque no soy tu elección y no esta mal, 
+quise aferrarme a la idea de que  un amor tan bonito y único que tuvimos no se puede acabar así, que me es difícil aceptar que todo acaba incluso ese amor que nos tuvimos, me dolió mucho la forma en que te fuiste, los planes, viajes, metas pendientes, sentí que pasaste de página mientras yo aún te esperaba, te extraño mucho y sí,  incluso me llegué a sentir remplazado, y sí, trate y sigo haciendo cosas por mi, solo que mi esperanza no me dejaba enfocarme 100% en mi porque esa esperanza me decía que aún me querías, que podía luchar por ti y
 convencerte de lo increíble que soy, fue y es un proceso fuerte, donde solo había dos caminos, perderme o rencontrarme y agradezco porque sé que debo reconstruirme y ser una mejor versión mía, porque sí,  también te pido perdón por mis errores y fallas, por lo malo que yo te haya causado, perdón a tu familia y a la gente que te importa. No creo que nuestra relación fuera mala, al contrario me encantó compartir un tiempo de mi vida contigo, acepto que el alcohol llego influir en situaciones donde no fui yo, también opté por dejarlo y centrarme.
 Todo este tiempo me he enfocado en lo que he echo mal y en como puedo ser mejor hombre, hijo, amigo, compañero, novio, persona, honestamente hubiese querido que esa versión se construyera contigo, sin embargo si la voluntad de Dios es que estemos juntos o volvamos a estarlo, seguramente te va tocar esa nueva versión, sin perder mi esencia.
 Desde el día en que te conocí, supe que había encontrado a alguien especial. Gracias por abrirme las puertas de tu casa, gracias por alimentarme, procurarme y estar ahí cuando lo necesité. Contigo reí, soñé y aprendí. Me hiciste ver el amor desde una perspectiva diferente, me enseñaste a sentir de una manera especial. Y aunque el camino nos ha traído hasta este punto, donde nuestros destinos parecen tomar rumbos distintos, quiero que sepas que todo lo vivido ha valido la pena.
-No puedo negar que me duele soltarte, pero te quiero tanto que prefiero hacerlo con amor. Me toca aceptar que hay batallas que no se ganan luchando, sino dejando ir. Me toca respetar tu camino, aunque no sea el mismo que el mío.
+Me toca aceptar que hay batallas que no se ganan luchando, sino dejando ir. Me toca respetar tu camino, aunque no sea el mismo que el mío.
 Me llevo conmigo los recuerdos de cada risa compartida, de cada conversación que nos hizo sentir en casa, de cada mirada que decía más que mil palabras. Me llevo lo mejor de nosotros, porque eso es lo que siempre quiero recordar y espero me recuerdes con amor.
-Hoy te suelto con gratitud, con cariño y con la certeza de que, aunque las cosas no hayan salido como imaginé, el amor que te tuve fue genuino y real.
+Hoy me retiro con gratitud, con cariño y con la certeza de que, aunque las cosas no hayan salido como imaginé, el amor que te tuve fue genuino y real.
 No, no te odio, ni te guardo rencor por nada, al contario te guardo en un lugar, en esos lugares del corazón donde se guarda a la gente que marca parte de tu vida.
-Te deseo lo mejor, de corazón. Que encuentres la felicidad en cada paso que des, que el amor te abrace en cada forma, que la vida te lo presente, y que nunca olvides lo valiosa que eres, Que Dios restaure tu corazón, aclare tu mente, sane tus heridas y que nunca te conformes con menos de lo que mereces y si algún día sientes que puedes volver a enamorarte, enamórate de mí.
+Te deseo lo mejor, de corazón. Que encuentres la felicidad en cada paso que des, que el amor te abrace en cada forma, que la vida te lo presente, y que nunca olvides lo valiosa que eres, Que Dios restaure tu corazón, aclare tu mente, sane tus heridas y que nunca te conformes con menos de lo que mereces y si algún día sientes que puedes volver a enamorarte, enamórate de mí. (no me olvides)
 
 Gracias por haber sido parte de mi historia.
 
@@ -82,6 +82,14 @@ Con amor, tu ternurin.
 
 Te amo.</span>
 <br>
+<a target="_blank" href="https://www.youtube.com/watch?v=j2gWZIMB1pY&ab_channel=BombelaDev">https://www.youtube.com/watch?v=j2gWZIMB1pY&ab_channel=BombelaDev</a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<span class="text-danger fw-bold" style="font-size: 9px;">Cederé si tu plan es quedarte conmigo...</span>
+
           </div>
         </div>
       </div>
