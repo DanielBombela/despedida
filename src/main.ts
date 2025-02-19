@@ -88,7 +88,7 @@ Te amo.</span>
 <br>
 <br>
 <br>
-<span class="text-danger fw-bold" style="font-size: 9px;">Cederé si tu plan es quedarte conmigo...</span>
+<span class="text-danger fw-bold" style="font-size: 7px;">Cederé si tu plan es quedarte conmigo...</span>
 
           </div>
         </div>
