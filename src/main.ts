@@ -55,8 +55,8 @@ interface Reason {
 Es difícil entender y comprender que no podemos obligar ni forzar a que una persona nos elija, discúlpame si llegaste a sentirte agobiada este tiempo, solo que soy un hombre que le gusta luchar hasta el final por la persona que le importa, haber echo todo lo que ha estado en mis manos para que me eligieras
 sin embargo entendí que esa decisión no me corresponde a mí, y que así como un día tu me elegiste y decidiste estar conmigo sin condiciones,
 así tiene que pasar, talvez mi psicólogo y amigos tienen razón, si tu no me has buscado es porque no soy tu elección y no esta mal, 
-quise aferrarme a la idea de que  un amor tan bonito y único que tuvimos no se puede acabar así, que me es difícil aceptar que todo acaba incluso ese amor que nos tuvimos, me dolió mucho la forma en que te fuiste, los planes, viajes, metas pendientes, sentí que pasaste de página mientras yo aún te esperaba, te extraño mucho y sí,  incluso me llegué a sentir remplazado, y sí, trate y sigo haciendo cosas por mi, solo que mi esperanza no me dejaba enfocarme 100% en mi porque esa esperanza me decía que aún me querías, que podía luchar por ti y
-convencerte de lo increíble que soy, fue y es un proceso fuerte, donde solo había dos caminos, perderme o rencontrarme y agradezco porque sé que debo reconstruirme y ser una mejor versión mía, porque sí,  también te pido perdón por mis errores y fallas, por lo malo que yo te haya causado, perdón a tu familia y a la gente que te importa. No creo que nuestra relación fuera mala, al contrario me encantó compartir un tiempo de mi vida contigo, acepto que el alcohol llego influir en situaciones donde no fui yo, también opté por dejarlo y centrarme.
+quise aferrarme a la idea de que  un amor tan bonito y único que tuvimos no se puede acabar así, que me es difícil aceptar que todo acaba incluso ese amor que nos tuvimos, me dolió mucho la forma en que te fuiste, los planes, viajes, metas pendientes, sentí que pasaste de página mientras yo aún te esperaba, te extrañaba mucho y sí,  incluso me llegué a sentir remplazado, y sí, trate y sigo haciendo cosas por mi, solo que mi esperanza no me dejaba enfocarme 100% en mi porque esa esperanza me decía que aún me querías, que podía luchar por ti y
+convencerte de lo increíble que soy, fue y es un proceso fuerte, donde solo había dos caminos, perderme o rencontrarme y agradezco porque sé que debo reconstruirme y ser una mejor versión mía, porque sí,  también te pido perdón por mis errores y fallas, por lo malo que yo te haya causado, perdón a tu familia y a la gente que te importa. No creo que nuestra relación fuera mala, al contrario me encantó compartir un tiempo de mi vida contigo.
 Todo este tiempo me he enfocado en lo que he echo mal y en como puedo ser mejor hombre, hijo, amigo, compañero, novio, persona, honestamente hubiese querido que esa versión se construyera contigo, sin embargo si la voluntad de Dios es que estemos juntos o volvamos a estarlo, seguramente te va tocar esa nueva versión, sin perder mi esencia.
 Desde el día en que te conocí, supe que había encontrado a alguien especial. Gracias por abrirme las puertas de tu casa, gracias por alimentarme, procurarme y estar ahí cuando lo necesité. Contigo reí, soñé y aprendí. Me hiciste ver el amor desde una perspectiva diferente, me enseñaste a sentir de una manera especial. Y aunque el camino nos ha traído hasta este punto, donde nuestros destinos parecen tomar rumbos distintos, quiero que sepas que todo lo vivido ha valido la pena.
 Me toca aceptar que hay batallas que no se ganan luchando, sino dejando ir. Me toca respetar tu camino, aunque no sea el mismo que el mío.
@@ -75,7 +75,7 @@ Con amor, tu ternurin.
         </div>
           <div class="text-center">
           <br>
-<span class="fw-bold">Atte: Daniel Bombela.
+<span class="fw-bold">
 </span>
 <br>
 <span class="fw-bold">
@@ -88,7 +88,6 @@ Te amo.</span>
 <br>
 <br>
 <br>
-<span class="text-danger fw-bold" style="font-size: 7px;">Cederé si tu plan es quedarte conmigo...</span>
 
           </div>
         </div>
